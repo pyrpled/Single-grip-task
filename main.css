@@ -42,6 +42,13 @@ header p {
 }
 
 /* classes */
+.attribution {
+    font-size: 11px; 
+    align-items: center;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+}
 
 .button {
     background-color: hsl(71, 73%, 54%);
@@ -153,5 +160,3 @@ header p {
 
 
 
-.attribution { font-size: 11px; align-items: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
